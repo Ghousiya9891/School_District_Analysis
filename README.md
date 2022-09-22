@@ -8,7 +8,9 @@ As part of the activity the data needs to standardized, cleaned, summarized and 
 
 ## Data Findings
 
-After drilling down the data it is found that "Public" schools are slight high funded in comparision to "Charter" schools Average  school budget for Charter =872625.656236 Average school budget for Public= 911195.558251
+After drilling down the data it is found that "Public" schools are slight high funded in comparision to "Charter" schools 
+Average  school budget for Charter =872625.656236 
+Average school budget for Public= 911195.558251
 
 The students performance is maths subject is better in Charter schools when comparted to Public schools except for the grade 12
 
