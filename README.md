@@ -14,8 +14,10 @@ After drilling down the data it is found that "Public" schools are slight high f
 
 The students performance is maths subject is better in Charter schools when comparted to Public schools except for the grade 12
 
-The average maths score of all students is 64.
+The average maths score of all students is 64
+
 The highest number of students are enrolled in "Montgomery High School"
+
 A clean dataset is created which can be used to generate summary reports or generate any pattern or plot graphs
 
 ## Additional Analysis
